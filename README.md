@@ -26,14 +26,14 @@
 *  Data visualization for demand trends
 *  Machine learning model for prediction
 
----
+
 
 ##  Dataset
 
 🔗 **Dataset Link:**
- [https://example.com/dataset-link](https://example.com/dataset-link) *(Replace this with your actual dataset link)*
+(https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 
----
+
 
 ## ⚙️ How It Works
 
@@ -56,7 +56,7 @@
 
 ##  Model Used
 
-* XGBoost*
+* XGBoost
 
 ---
 
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 ```bash
 python main.py
@@ -85,42 +85,22 @@ python main.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
-* 🔮 Real-time demand prediction
-* 🌍 Integration with live GPS data
-* 📱 Deployment as a web/mobile app
+*  Real-time demand prediction
+*  Integration with live GPS data
+*  Deployment as a web/mobile app
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**
 
 ---
+![Stars]([https://img.shields.io/github/stars/your-username/taxi-demand-prediction](https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System))
+![Issues][(https://img.shields.io/github/issues/your-username/taxi-demand-prediction)](https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System)
+![Last Commit][(https://img.shields.io/github/last-commit/your-username/taxi-demand-prediction)](https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System)
 
-## ⭐ GitHub Stats (Optional Add-on)
 
-You can add this like your sample:
-
-```md
-![Stars](https://img.shields.io/github/stars/your-username/taxi-demand-prediction)
-![Issues](https://img.shields.io/github/issues/your-username/taxi-demand-prediction)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/taxi-demand-prediction)
-```
-
----
-
-## 💡 Tip (Important)
-
-To get the exact look like your sample image:
-
-* Use **Shields.io badges**
-* Use **center alignment** like:
-
-```html
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Taxi%20Demand-blue" />
-</p>
-```
 
