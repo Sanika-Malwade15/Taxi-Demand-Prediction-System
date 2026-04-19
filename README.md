@@ -1,22 +1,27 @@
 
-# 🚖 Taxi Demand Prediction
+<h1 align="center">🚖 Taxi Demand Prediction</h1>
 
-###  Predicting taxi demand using Machine Learning
+<p align="center">
+  <b>Machine Learning-powered system to forecast taxi demand using historical, temporal, and location-based data.</b>
+</p>
 
-**AI-powered system that forecasts taxi demand based on historical trip data, time patterns, and location features to optimize ride availability.**
+<p align="center">
+  <i>Optimizing ride availability through data-driven insights and predictive modeling.</i>
+</p>
 
----
+
 
 ##  Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
-![Seaborn](https://img.shields.io/badge/Seaborn-EDA-lightblue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-444e91?style=for-the-badge&logo=seaborn&logoColor=white"/>
+</p>
 
----
 
 ##  Features
 
@@ -71,7 +76,7 @@
 
 ```bash
 git clone https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System.git
-cd Taxi-Demand-Prediction
+cd Taxi-Demand-Prediction-System
 pip install -r requirements.txt
 ```
 
@@ -80,7 +85,7 @@ pip install -r requirements.txt
 ##  Run the Project
 
 ```bash
-python main.py
+streamlit run app.py
 ```
 
 ---
@@ -97,10 +102,7 @@ python main.py
 
 This project is licensed under the **MIT License**
 
----
-![Stars]([https://img.shields.io/github/stars/your-username/taxi-demand-prediction](https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System))
-![Issues][(https://img.shields.io/github/issues/your-username/taxi-demand-prediction)](https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System)
-![Last Commit][(https://img.shields.io/github/last-commit/your-username/taxi-demand-prediction)](https://github.com/Sanika-Malwade15/Taxi-Demand-Prediction-System)
+
 
 
 
